@@ -1,0 +1,335 @@
+/* navbar */
+.navbar {
+  background-color: #0a2640;
+}
+.navbar svg {
+  position: relative;
+  right: 10px;
+  top: -4px;
+}
+.navbar-nav button {
+  width: 100px;
+  border-radius: 20px;
+}
+/* akhir navbar */
+
+/* hero */
+.hero {
+  height: 615px;
+  background-color: #0a2640;
+}
+.hero h6 {
+  font-family: Open Sans;
+  font-size: 20px;
+  font-weight: 400;
+  color: #fff;
+  position: relative;
+  top: 140px;
+}
+.hero h1 {
+  font-family: Manrope;
+  font-size: 64px;
+  font-weight: 400;
+  color: #fff;
+  position: relative;
+  top: 150px;
+}
+.hero p {
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  color: #fff;
+  position: relative;
+  top: 180px;
+}
+/* akhir hero */
+
+/* image */
+.our-story {
+  height: 600px;
+}
+.our-story img {
+  width: 302px;
+  height: 287px;
+  object-fit: cover;
+  padding-top: 20px;
+  position: relative;
+  top: -100px;
+}
+/* akhir image */
+
+/* Our story */
+.Our-story {
+  height: 624px;
+  top: -100px;
+}
+.Our-story p {
+  position: relative;
+  top: 140px;
+  left: 90px;
+}
+.Our-story h1 {
+  font-family: Manrope;
+  font-size: 48px;
+  font-weight: 400;
+  position: relative;
+  top: 130px;
+  left: 90px;
+}
+.Our-story h6 {
+  font-family: Open Sans;
+  font-size: 20px;
+  font-weight: 300;
+  position: relative;
+  top: 150px;
+  left: 90px;
+}
+/* akhir Our story */
+
+/* our-members */
+.our-members {
+  height: 624px;
+  background-color: #0a2640;
+}
+.our-members h6 {
+  font-family: Open Sans;
+  font-weight: 400;
+  font-size: 20px;
+  position: relative;
+  top: 130px;
+  color: #fff;
+}
+.our-members h1 {
+  font-family: Manrope;
+  font-weight: 400;
+  font-size: 48px;
+  color: #fff;
+  position: relative;
+  top: 140px;
+}
+.our-members h2 {
+  font-size: 96px;
+  position: relative;
+  top: 180px;
+  color: #4fe9a4;
+}
+.our-members p {
+  position: relative;
+  top: 200px;
+  color: #fff;
+}
+/* akhir our-members */
+
+/* our team */
+.our-team {
+  height: 1000px;
+  padding: 100px;
+}
+.our-team h6 {
+  font-family: Open Sans;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  left: 100px;
+}
+.our-team h1 {
+  font-family: Manrope;
+  font-size: 48px;
+  font-weight: 400;
+  position: relative;
+  left: 100px;
+}
+.our-team p {
+  font-family: Open Sans;
+  font-size: 20px;
+  position: relative;
+  left: 100px;
+}
+.our-team img {
+  width: 300px;
+  height: 354px;
+  object-fit: cover;
+  border-radius: 24px;
+  position: relative;
+  left: 50px;
+  top: 60px;
+}
+.our-team h2 {
+  font-family: Manrope;
+  font-size: 28px;
+  font-weight: 400;
+  position: relative;
+  left: 50px;
+  top: 70px;
+}
+.our-team h5 {
+  font-family: Open Sans;
+  font-size: 20px;
+  font-weight: 300;
+  position: relative;
+  left: 50px;
+  top: 80px;
+}
+/* akhir our team */
+
+/* Our-values */
+.Our-values {
+  height: 1100px;
+  background-color: #0a2640;
+}
+.Our-values h6 {
+  font-family: Open Sans;
+  font-size: 20px;
+  font-weight: 400;
+  color: #fff;
+}
+.Our-values h1 {
+  font-family: Manrope;
+  font-size: 48px;
+  font-weight: 400;
+  color: #fff;
+}
+.Our-values p {
+  font-family: Open Sans;
+  font-size: 20px;
+  font-weight: 400;
+  color: #fff;
+}
+.Our-values img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.Our-values h2 {
+  font-family: Open Sans;
+  font-size: 28px;
+  font-weight: 400;
+  color: #fff;
+  position: relative;
+  left: 50px;
+  top: 20px;
+}
+.Our-values .text1 {
+  font-family: Open Sans;
+  font-size: 15px;
+  font-weight: 400;
+  color: #fff;
+  position: relative;
+  right: 180px;
+  top: 70px;
+}
+.Our-values .text2 {
+  font-family: Open Sans;
+  font-size: 15px;
+  font-weight: 400;
+  color: #fff;
+  position: relative;
+  right: 180px;
+  top: 70px;
+}
+.Our-values .text3 {
+  font-family: Open Sans;
+  font-size: 15px;
+  font-weight: 400;
+  color: #fff;
+  position: relative;
+  right: 180px;
+  top: 70px;
+}
+/* akhir Our-values */
+
+/* akhir our blog */
+
+.ini-blog {
+  position: relative;
+  top: 100px;
+}
+
+.ini-blog .card {
+  height: 300px;
+  background-color: #0a2640;
+  border-radius: 10px;
+}
+
+.ini-blog h1 {
+  color: #fff;
+  font-family: Manrope;
+  font-size: 48px;
+  font-weight: 400;
+  position: relative;
+  top: 40px;
+}
+
+.ini-blog input {
+  width: 370px;
+  border-radius: 20px;
+  position: relative;
+  top: 70px;
+}
+
+.ini-blog button {
+  width: 200px;
+  font-weight: bold;
+  color: #fff;
+  border-radius: 20px;
+  position: relative;
+  top: 70px;
+}
+/* akhir ini-blog */
+
+/* footer */
+.footer {
+  top: 300px;
+  position: relative;
+}
+
+.footer h1 {
+  font-family: Manrope;
+  font-weight: 700;
+  font-size: 43px;
+  position: relative;
+  left: 30px;
+  top: -43px;
+}
+
+.footer h6 {
+  font-family: Open Sans;
+  font-weight: 400;
+  font-size: 16px;
+  color: #777777;
+  position: relative;
+  top: -20px;
+}
+
+.footer h3 {
+  font-family: Open Sans;
+  font-weight: 400;
+  font-size: 16px;
+  color: #777777;
+}
+
+.footer h5 {
+  font-family: Open Sans;
+  font-size: 15px;
+  font-weight: bold;
+  color: #000;
+  position: relative;
+  left: 25px;
+}
+
+.footer p {
+  font-family: Open Sans;
+  font-size: 20px;
+  font-weight: 300;
+  position: relative;
+  left: 25px;
+}
+
+.footer p span {
+  background-color: #65e4a3;
+  padding: 6px;
+  border-radius: 20px;
+  font-weight: bold;
+}
+/* akhir footer */
